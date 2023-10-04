@@ -1,0 +1,14 @@
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/bin/Debug/net8.0/FinalTest
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/bin/Debug/net8.0/FinalTest.deps.json
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/bin/Debug/net8.0/FinalTest.runtimeconfig.json
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/bin/Debug/net8.0/FinalTest.dll
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/bin/Debug/net8.0/FinalTest.pdb
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.AssemblyInfoInputs.cache
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.AssemblyInfo.cs
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.csproj.CoreCompileInputs.cache
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.dll
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/refint/FinalTest.dll
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.pdb
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/FinalTest.genruntimeconfig.cache
+/Users/mishagolitsyn/Desktop/HomeFinalTest/FinalTest/obj/Debug/net8.0/ref/FinalTest.dll
